@@ -31,8 +31,8 @@ I'm a cybersecurity professional with 1 year of hands-on experience as a Securit
  
 ## 📂 Repositories
  
-| Repo | What's Inside |
-[mybudget-android](https://github.com/kshitij-cybersec/mybudget-android) | Offline Android budget tracker — Kotlin, Jetpack Compose, bank statement parsing |
+
+| [mybudget-android](https://github.com/kshitij-cybersec/mybudget-android) | Offline Android budget tracker — Kotlin, Jetpack Compose, bank statement parsing |
 |---|---|
 
  
