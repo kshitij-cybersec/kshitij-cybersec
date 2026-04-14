@@ -33,12 +33,22 @@ I'm a cybersecurity professional with 1 year of hands-on experience as a Securit
  
 
 | [mybudget-android](https://github.com/kshitij-cybersec/mybudget-android) | Offline Android budget tracker — Kotlin, Jetpack Compose, bank statement parsing |
-| [splunk-home-lab](https://github.com/kshitij-cybersec/splunk-home-lab) | Splunk SIEM on Fedora — BOTS v1 ransomware investigation, detection queries, 13 screenshots |
 |---|---|
+| [splunk-home-lab](https://github.com/kshitij-cybersec/splunk-home-lab) | Splunk SIEM on Fedora — BOTS v1 ransomware investigation, detection queries, 13 screenshots |
+
 
  
 ---
+  
+## 🔒 TryHackMe Progress
  
+| Room | Path | Date |
+|------|------|------|
+| Cybersecurity 101 | Cyber Security 101 | Apr 2025 |
+ 
+🔗 [View all writeups →](https://github.com/kshitij-cybersec/tryhackme-writeups)
+ 
+---
 ## 🏅 Certifications & Learning
  
 - 🔄 **CompTIA Security+** — in progress
