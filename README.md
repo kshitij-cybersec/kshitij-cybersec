@@ -45,6 +45,7 @@ I'm a cybersecurity professional with 1 year of hands-on experience as a Securit
 | Room | Path | Date |
 |------|------|------|
 | Cybersecurity 101 | Cyber Security 101 | Apr 2025 |
+| What is Networking? | Cyber Security 101 | May 2025 |
  
 🔗 [View all writeups →](https://github.com/kshitij-cybersec/tryhackme-writeups)
  
