@@ -9,7 +9,7 @@ I'm a cybersecurity professional with 1 year of hands-on experience as a Securit
 ## 🔍 What I'm Working On
  
 - Completing the **TryHackMe SOC Level 1** learning path
-- Building a **home SIEM lab** with Splunk Enterprise on Ubuntu — ingesting real logs, writing detection rules, and investigating the Boss of the SOC (BOTS) datasets
+- Building a **home SIEM lab** with Splunk Enterprise on Fedora — ingesting real logs, writing detection rules, and investigating the Boss of the SOC (BOTS) datasets
 - Preparing for **CompTIA Security+**
 - Writing weekly **CTF and lab writeups** (see below)
  
