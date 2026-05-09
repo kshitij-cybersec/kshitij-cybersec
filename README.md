@@ -1,6 +1,6 @@
-# Hi, I'm Kshitij 👋
+# Hi, I'm Kshitij 
  
-Aspiring SOC Analyst | Blue Team | India 🇮🇳
+Aspiring SOC Analyst | Blue Team | India 
  
 I'm a cybersecurity professional with 1 year of hands-on experience as a Security Analyst intern, and a background in Android and web development from an AI-focused startup. I'm currently building toward a remote SOC Analyst role and documenting everything I learn along the way.
  
